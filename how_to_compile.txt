@@ -1,0 +1,1 @@
+bryan@quantumdot:~/programs/LCV3$ sudo g++ -o ex1 example_2-1.cpp `pkg-config opencv --cflags --libs`
